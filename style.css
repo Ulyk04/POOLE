@@ -1,0 +1,216 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bangers&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Nosifer&family=Protest+Revolution&family=Yatra+One&display=swap');
+
+body{
+    font-family: "Nosifer", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    padding: 0;
+    margin: 0;
+    overflow:visible;
+    background-color: black;
+}
+#backgroundv{
+    width: 1890px;
+    height: 1000px;
+    object-fit: cover;
+}
+.container h1{
+    z-index: 1;
+    color: yellow;
+    font-size: 100px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: -650px;
+    text-align: center;
+}
+.container-btn-1{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+.container-btn-1 button{
+    width: 400px;
+    height: 50px;
+    background-color: yellow;
+    font-family: "Nosifer";
+}
+.container-btn-1 a{
+    cursor: pointer;
+}
+.container-fluid {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.navbar{
+    background-color: black;
+}
+
+/*section -2 */
+ 
+.section-2{
+    padding: 300px 0;
+    margin-top: 300px;
+}
+.text-2 img{
+    width: 50px;
+    height: 50px;
+}
+.text-2 h1{
+    font-size: 80px;
+    color: white;
+}
+.text-2{
+    width: 700px;
+}
+.text-2 p{
+    color: yellow;
+    font-size: 25px;
+}
+.big-container-2{
+    margin-left: 80px;
+    gap: 20px;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.image-2{
+    display: flex;
+    justify-content: flex-end;
+    align-items: end;
+    margin-top: -850px;
+    margin-right: 200px;
+}
+.image-2 img:nth-child(1){
+    margin-right: -650px;
+}
+ 
+/*section - 3*/
+
+.container-3 img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 200px;
+}
+.container-3 h2{
+    color: yellow;
+}
+.container-3 p{
+    color: white;
+}
+.container-3{
+    width: 400px;
+}
+.container-3 hr{
+    width: 60px;
+    border: 3px solid white;
+}
+.big-container-3{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+.title-3 h1{
+    font-size: 60px;
+    color: black;
+}
+.title-3{
+    margin-top: -150px;
+    margin-bottom: 200px;
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+}
+.section-3{
+    padding: 300px 0;
+}
+/* section - 4*/
+.section-4{
+    padding: 300px 0;
+}
+.container-4 img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+.big-container-4{
+    display: flex;
+    justify-content: center;
+    gap: 300px;
+}
+.container-4 h2{
+    color: yellow;
+}
+.container-4 p{
+    color: white;
+}
+.container-4{
+    width: 300px;
+}
+.big-title-4{
+    display: flex;
+    justify-content: center;
+    margin-top: -300px;
+    margin-bottom: 350px;
+}
+.title-4{
+    background-color: yellow;
+}
+.title-4 h1{
+    color: black;
+}
+/* section - 5*/
+
+#back{
+    width: 1890px;
+    height: 1000px;
+    object-fit: cover; 
+}
+.big-title-5{
+    margin-top: -850px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.title-5{
+    width: 600px;
+}
+.title-5 p{
+    color: white;
+}
+
+/*section - 6 */
+.section-6{
+    padding: 300px 0;
+}
+.container-6 img{
+    width: 300px;
+    height: 300px;
+}
+.big-container-6{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    gap: 300px;
+}
+.container-6 h2{
+    color: black;
+    background-color: yellow;
+}
+.container-6 p{
+    color: white;
+}
+.title-6{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+.title-6 h1{
+    font-size: 80px;
+    color: white;
+}
