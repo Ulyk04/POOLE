@@ -3,7 +3,7 @@
 **POOLE** This is a site to show science and development
 
 ## 🚀 [View Live Website](https://Ulyk04.github.io/SPRIT)  
-TSG
+https://ulyk04.github.io/POOLE/
 
 ---
 
